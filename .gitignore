@@ -1,0 +1,7 @@
+accounts.txt
+results.csv
+.env
+*.session
+__pycache__/
+.venv/
+venv/
