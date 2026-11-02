@@ -1,0 +1,4 @@
+# Template only. Never put real .ROBLOSECURITY values in GitHub.
+# Store one placeholder per line; keep your real cookies.txt local and ignored.
+COOKIE_ACCOUNT_01
+COOKIE_ACCOUNT_02
