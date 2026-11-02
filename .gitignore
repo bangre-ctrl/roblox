@@ -1,8 +1,7 @@
-accounts.txt
+cookies.txt
 results.csv
 .env
 *.session
 __pycache__/
 .venv/
 venv/
-cookies.txt
